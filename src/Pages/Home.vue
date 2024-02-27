@@ -12,6 +12,9 @@
         <router-link class="btn btn-dark" :to="{ name: 'Tusers' }"
           >Users</router-link
         >
+        <router-link class="btn btn-warning ms-4" :to="{ name: 'Tposts' }"
+          >Posts</router-link
+        >
       </div>
     </div>
   </div>
